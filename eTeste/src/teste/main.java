@@ -1,5 +1,6 @@
 package teste;
 
 public class main {
- private nome
+ private nomeç
+ private idade
 }
